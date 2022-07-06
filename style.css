@@ -1,0 +1,173 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+    color: green;
+    text-align: center;
+    text-shadow: black;
+}
+
+p {
+    color: black;
+    background-color: white;
+    margin: 0%;
+    text-align: center;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 30px;
+    color: black;
+    font-weight: 900;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+}
+
+.contribute-button {
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 10px 10px;
+    color: black;
+    border-radius: 8px;
+
+}
+
+.first-page {
+    background-image: url(donate-today-main/images/donation5.jpg);
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 600px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hundred-taka {
+    background-color: bisque;
+    border: none;
+    color: black;
+    font-weight: 900;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.five-hundred-taka {
+    background-color: bisque;
+    border: none;
+    color: black;
+    font-weight: 900;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.two-hundred-taka {
+    background-color: bisque;
+    border: none;
+    color: black;
+    font-weight: 900;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.one-thousand-taka {
+    background-color: bisque;
+    border: none;
+    color: black;
+    font-weight: 900;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.five-thousand-taka {
+    background-color: bisque;
+    border: none;
+    color: black;
+    font-weight: 900;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.devider {
+    width: 600px;
+    height: 5px;
+    background-color: black;
+    display: inline-block;
+}
+
+.third-page {
+    display: flex;
+
+}
+
+.food {
+    width: 50%;
+    padding: 5%;
+    background-color: aqua;
+}
+
+.shelter {
+    width: 50%;
+    padding: 5%;
+    background-color: darkgray;
+}
+
+.education {
+    width: 50%;
+    padding: 5%;
+    background-color: thistle;
+}
+
+h3 {
+    text-align: center;
+}
+
+.donate-details {
+    text-align: center;
+}
+
+.forth-class {
+    display: flex;
+}
+
+.right {
+    width: 50%;
+    padding: 2%;
+
+}
+
+.left {
+    width: 50%;
+    padding: 2%;
+
+}
